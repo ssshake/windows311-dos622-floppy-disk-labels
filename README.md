@@ -9,3 +9,7 @@ I created some knock off Dos 6.22 and Windows 3.11 labels by hand in GIMP. It us
 A comparison to the real thing.
 
 ![](https://raw.githubusercontent.com/ssshake/floppy-disk-label-designs/master/Comparison.jpg)
+
+PowerQuest products
+
+![](https://raw.githubusercontent.com/ssshake/windows311-dos622-floppy-disk-labels/master/partitionmagic-example.png)
